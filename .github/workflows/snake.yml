@@ -16,7 +16,7 @@ jobs:
       - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: KimTeaKwan
+          github_user_name: KimTeakwan
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
