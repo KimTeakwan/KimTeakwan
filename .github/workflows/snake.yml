@@ -1,29 +1,23 @@
-name: Generate Snake (output branch)
+name: Generate GitHub Contribution Snake
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # 매일 자정 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout main branch
-        uses: actions/checkout@v3
-
-      - name: Generate the snake animation
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v2
+      - uses: aebonlee/github-contribution-grid-snake@v1
         with:
-          github_user_name: KimTeakwan
-          outputs: |
-            ./dist/github-contribution-grid-snake.svg
-
+          github_user_name: 'KimTeakwan'
+          svg_out_path: 'output/github-contribution-grid-snake.svg'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
