@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
 <p align="center">
-  <img src="./logo.jpg" height="200px" />
+  <img src="./logo2.png" height="200px" />
 </p>
 
-<h1 align="center">👩‍💻 Aebon Lee | AI & Education Specialist 🧩</h1>
+<h1 align="center">🧑🏻‍💻 TaeKwan Kim | AI & Education Specialist 🧩</h1>
 <h3 align="center"><i>"U1대학교 AI소프트웨어학과 김태관"</i></h3>
 
 <p align="center">
@@ -47,10 +47,6 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
 
 ### 🧠 Data / AI
 <div align="center">
-<a href="https://opencv.org/"><img src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" height="50"/></a>
-<a href="https://pytorch.org/"><img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/></a>
-<a href="https://powerbi.microsoft.com/"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="50"/></a>
-<a href="https://www.tableau.com/"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="50"/></a>
 </div>
 
 ### 🗄 Databases
@@ -66,10 +62,7 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
 <div align="center">
 <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" height="50"/></a>
 <a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="50"/></a>
-<a href="https://www.adobe.com/in/products/indesign.html"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" height="50"/></a>
 <a href="https://www.adobe.com/in/products/premiere.html"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" height="50"/></a>
-<a href="https://www.adobe.com/in/products/xd.html"><img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" height="50"/></a>
-<a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50"/></a>
 <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" height="50"/></a>
 <a href="https://www.adobe.com/in/products/aftereffects.html"><img src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" height="50"/></a>
 </div>
@@ -87,11 +80,6 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
 ---
 
 ## 🔗 Links
-- 🌐 [Notion 포트폴리오](https://www.notion.so/BNK-SQL-2365549d352880a6be45c4d2fa401a49)
-- 📄 [Notion 이력서](https://www.notion.so/aebon/Aebon-s-Information-Career-7b97e044c1d7432ab8333af05e0ac968)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aebon/)
-- 🎥 [YouTube (예정)](https://www.youtube.com/@%EC%9D%B4%EC%95%A0%EB%B3%B8%EA%B5%90%EC%88%98%EC%9D%98%EC%97%AD%EB%9F%89%EA%B8%B0%EB%B0%98)
-
 ---
 
 ## 📬 Contact
