@@ -70,7 +70,7 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
 ---
 
 ## 🔥 Activity Graph (Animated)
-[![Aebon Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimTeaKwan&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![TaeKwan Kim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimTeaKwan&theme=radical&bg_color=ffffff&color=6439F7&line=bd93f9&point=f8f8f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
