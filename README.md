@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KimTaeKwan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/KimTaeKwan?label=Followers&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/KimTaeKwan?label=Stars&style=social" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=KimTeaKwan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/KimTeaKwan?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/KimTeaKwan?label=Stars&style=social" alt="GitHub stars"/>
 </p>
 
 ---
