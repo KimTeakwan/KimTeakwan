@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  # 수동으로 실행 가능
+  workflow_dispatch:
+  # 매일 자정(UTC 기준)에 자동으로 실행
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 저장소의 코드를 가져옵니다.
+      - uses: actions/checkout@v3
+
+      # 2. 스네이크 애니메이션 생성
+      - uses: Platane/snk@v3
+        with:
+          # 저장소 소유자(KimTeaKwan)의 이름을 자동으로 가져옵니다.
+          github_user_name: ${{ github.repository_owner }}
+
+          # 생성될 파일 경로와 옵션을 지정합니다. (라이트 모드, 다크 모드)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3. 생성된 파일을 'output' 브랜치로 푸시합니다.
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
