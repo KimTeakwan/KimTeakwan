@@ -75,12 +75,7 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
 ---
 
 ## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KimTeaKwan/KimTeaKwan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KimTeaKwan/KimTeaKwan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KimTeaKwan/KimTeaKwan/output/github-contribution-grid-snake.svg">
-</picture>
-
+![snake gif](https://github.com/KimTeaKwan/KimTeaKwan/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🔗 Links
