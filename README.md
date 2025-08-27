@@ -75,7 +75,7 @@ U1대학교에 다니고 있는 19학번 AI소프트웨어학과 김태관입니
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/KimTeakwan/KimTeakwan/blob/output/github-contribution-grid-snake.svg)
+![github contribution snake animation](https://raw.githubusercontent.com/KimTeaKwan/KimTeaKwan/output/github-contribution-grid-snake.svg)
 
 ---
 
