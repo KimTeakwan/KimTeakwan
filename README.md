@@ -97,7 +97,6 @@ U1대학교를 졸업한 19학번 AI소프트웨어학과 김태관입니다. <b
     <img src="https://img.shields.io/badge/My_Travel_App-00BCD4?style=for-the-badge&logo=tripadvisor&logoColor=white" alt="Travel App"/>
   </a>
 </div>
----
 
 ## 📬 Contact
 📧 **Email**: xorhks4552@naver.com
